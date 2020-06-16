@@ -1,0 +1,18 @@
+{
+    "token": "NTU2OTI4MjIyOTYxNTk4NDk4.XuEsMA.Qn3YO3IYjBa_IsB8TIpsh6U4wEM",
+    "password": "H2ODK37B",
+    "prefix": ".",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": false,
+    "privnote_sniper": false,
+
+    "stream_url": "https://twitch.tv/lativ",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
